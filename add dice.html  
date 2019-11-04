@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html language = "en" dir = "ltr">
+<head>
+<meta charset= "uft-8">
+<title x/ title >
+<head>
+<body>
+<script>
+var roll = (prompt) Give me a number for the first roll (1-6);
+var num1 = parseInt(roll1,10);
+// parseInt explanation is in lab 8 review slide 28 
+var roll 2 = (prompt) Give me a number for the second roll (1-6);
+var num2 = parseIn (roll2, 10);
+var sum = num1 + num2 
+console.log(" Your two dice and up to" + sum );
+document.log(" Your two dice and up to" + sum );
+</script>
+</body>
+</html> 
